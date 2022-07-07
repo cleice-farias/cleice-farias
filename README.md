@@ -1,4 +1,4 @@
-<h2 align="left">Oiii! Sou a Cleice Farias (●'◡'●)💻</h2>
+<h2 align="left">Oiii! Sou a Cleice Farias 💻(●'◡'●)</h2>
 
 ###
 
@@ -35,11 +35,5 @@
  
   <img src= "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="telegram logo" />
 </div>
-
-###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/cleice-farias/cleice-farias/blob/output/snake.svg" alt="Snake animation" />
 
 ###
