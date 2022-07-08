@@ -1,4 +1,4 @@
-## Oiii! Sou a Cleice Farias (●'◡'●)💻
+## Oiii(●'◡'●)! Sou a Cleice Farias ☕💻
 
 ###
 
