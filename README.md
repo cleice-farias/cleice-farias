@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/_cleicefarias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" target="_blank"></a>
   <a href = "mailto:cleicerafaele@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="35" target="_blank"></a>
   <a href="https://discord.com/channels/@cleicefarias"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  height="35" target="_blank"></a> 
-  <a href= "https://t.me/CleiceFarias"><img src= "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="telegram logo"></a>
+  <a href= "https://www.twitch.tv/cleice_farias" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"  height="35" target="_blank"></a>
 
 </div>
 
